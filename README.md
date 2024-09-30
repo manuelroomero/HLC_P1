@@ -9,7 +9,7 @@ En esta práctica vamos a utilizar diversos comandos y funciones de Git y GitHub
 1. El primer paso es clonar este repositorio usando el comando `git clone`. Este comando establece una copia local del repositorio completo, incluyendo el historial, todas las ramas y los archivos de trabajo actuales.
    
 ~~~
-git clone https://github.com/creyaro/HLC_CI.git
+git clone https://github.com/apaemau686/HLC_P1.git
 ~~~
 
 2. Tras ello, crearemos una rama llamada `<nombre_apellidos_v1>` en la que vamos a trabajar.
