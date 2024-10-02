@@ -6,7 +6,7 @@ En esta práctica vamos a utilizar diversos comandos y funciones de Git y GitHub
 
 ### Repositorio HLC
 
-1. El primer paso es clonar este repositorio usando el comando `git clone`. Este comando establece una copia local del repositorio completo, incluyendo el historial, todas las ramas y los archivos de trabajo actuales.
+1. El primer paso es clonar este repositorio usando el comando `git clone`. Este comando establece una copia local del repositorio completo, incluyendo el historial, todas las ramas y los archivos de trabajo actuales. Realizaremos "fork" en su lugar para poder seguir los pasos del alumnado.
    
 ~~~
 git clone https://github.com/apaemau686/HLC_P1.git
