@@ -1,3 +1,2 @@
-
 git commit -m "Add used commands"
 git push
